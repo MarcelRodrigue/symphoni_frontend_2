@@ -4,7 +4,7 @@
 
 ## Welcome! 👋
 
-Thanks for checking out this front-end coding challenge. This is the second challenge for Symphoni Social, aimed at evaluating the candidate's knowledge of APIs, data fetching methods, caching, revalidation, as well as high-order array methods.
+Thanks for checking out this front-end coding challenge. This is the second challenge for Symphoni Social, aimed at evaluating the candidate's knowledge of APIs, data fetching methods, caching, revalidation, as well as high-order array methods. do clone this repo and follow instructions
 
 **To do this challenge, you need a good understanding of React, Tailwind CSS, TypeScript, Zustand, Fetch, and Axios.**
 
